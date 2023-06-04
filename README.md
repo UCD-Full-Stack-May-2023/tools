@@ -28,7 +28,7 @@ A list of free tools, tutorials and books for full stack development.
 
 ## Website Articles
 
--[Seven Principles of Design](https://www.turing.com/kb/what-are-the-7-principles-of-design-detailed-breakdown)
--[8 Basic design principles to help you make awesome graphics](https://www.adobe.com/express/learn/blog/8-basic-design-principles-to-help-you-create-better-graphics)
+- [Seven Principles of Design](https://www.turing.com/kb/what-are-the-7-principles-of-design-detailed-breakdown)
+- [8 Basic design principles to help you make awesome graphics](https://www.adobe.com/express/learn/blog/8-basic-design-principles-to-help-you-create-better-graphics)
 
 
